@@ -9,6 +9,10 @@ double calculateArea(double length, double width) {
 	//complete the function
 }
 
+// Write a function called divide that takes 2 parameters.
+// The function should divide the parameters and return the result.
+
+
 
 int main()
 {
